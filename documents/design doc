@@ -1,0 +1,67 @@
+# Dispatch & Delivery Management App SDD
+
+# 1. Introduction
+
+## 1.1 Overview
+
+## 1.2 Goals
+
+使用地面机器人助手和无人机帮助旧金山市内用户递送中小型规格物件
+
+TODO: success metrics
+
+## 1.3 Constraint
+
+## 1.4 Milestones
+
+# 2. Proposed Solution
+
+# 3. Alternative Solution
+
+# 4. Design Viewpoints
+
+## 4.1 Introduction
+
+In this part, five main design viewpoints will be explained in detail.
+
+- Context Viewpoint
+- Composition Viewpoint
+- Logical Viewpoint
+- State Dynamics Viewpoint
+- Interaction Viewpoint
+
+## 4.2 Context Viewpoint
+
+Our software context viewpoint shows the functionalities among station, user and system provided by a design. The context is defined by users who interact with the software.
+
+### 4.2.1 User Use Case Diagram
+
+[https://embed.creately.com/w6xWFfkHCKh?token=rsuqf3yQMyRrL4iB&type=svg](https://embed.creately.com/w6xWFfkHCKh?token=rsuqf3yQMyRrL4iB&type=svg)
+
+Figure 1: Use Case Diagram
+
+## 4.3 Composition Viewpoint
+
+### 4.3.1 Deployment Diagram
+
+TODO: Deployment Diagram
+
+## 4.4 Logical Viewpoint
+
+### 4.4.1 User Class
+
+TODO:  Class Diagram
+
+## 4.5 State Dynamics Viewpoint
+
+[https://embed.creately.com/ViJvvCVknTk?type=svg](https://embed.creately.com/ViJvvCVknTk?type=svg)
+
+Figure 2: State Diagram
+
+## 4.6 Interaction Viewpoint
+
+### 4.6.1 User -Server Sequence Diagram
+
+UML Sequence Diagram TODO
+
+# 5. Conclusion
